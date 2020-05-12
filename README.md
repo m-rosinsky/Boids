@@ -1,4 +1,4 @@
-# FishSimulation
+# Boid Simulation
   A simulation of fish/bird movement (flocking) based on the 1986 "Boid" paper by Craig Reynolds
   
 # Link to the Paper:
