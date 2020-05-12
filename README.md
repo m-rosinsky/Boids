@@ -16,6 +16,7 @@
   - Separation
   - Cohesion
   - Alignment
+  
   Using these three tenants (which I detail more in their respective sections of development), we can simulate our desired movement
   
  # Development
