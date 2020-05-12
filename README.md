@@ -22,5 +22,23 @@
  # Development
  
  ### Creating our first Boid
+  - A pretty simple ellipse will suffice for now!
   
+  ![alt text](https://imgur.com/lGzReKR "Boid")
+  
+  - We need to give the boid a detection radius, as well as a detection angle
+  - The boid should be able to detect any boids that are within its detection arc
+  - This image shows a view distance of 100 and a view angle of 60°
+  
+  ![alt text](https://imgur.com/tvErxtZ "Boid Detection Radius")
+  
+  - Notice the dot turns orange when it is detect by the boid
+  
+  ![alt text](https://imgur.com/hAZ1ZSu "Boid Detecting a Dot")
+  
+### Spawn the Boids!
+  - With our prefab boid ready to go, I created an environment for the boids to swim/fly around in
+  - Boids spawn in a random position with a random velocity vector
+  
+  ![alt text](https://imgur.com/ZzczdEV "Boid Spawning")
   
