@@ -11,7 +11,7 @@
 # Abstract / Summary
   Craig's paper details objects called "boids" that act as the birds or fish or whatever animal you are simulating.
   These boids have a detection radius, as well as a view angle that they can see.
-  The boids use 3 "tenants" to choose how it moves and steers to immitate the flocking movement
+  The boids use 3 "tenants" to choose how it moves and steers to immitate the flocking movement.
   These three tenants include:
     - Separation
     - Cohesion
