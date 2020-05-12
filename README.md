@@ -46,6 +46,9 @@
   
   ![alt text](https://i.imgur.com/95w6EOg.gif "Boid Line Detection")
   
+  - With more and more boids being added, I decided to add a toggle to the view arcs being drawn
+  - Clicking the mouse enables/disables the view arcs
+  
 ### Separation
   - Separation involves the boids spreading out from each other so as to not crash
   - This screenshot is from Craig's paper:
