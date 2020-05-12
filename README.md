@@ -13,9 +13,9 @@
   These boids have a detection radius, as well as a view angle that they can see.
   The boids use 3 "tenants" to choose how it moves and steers to immitate the flocking movement.
   These three tenants include:
-    - Separation
-    - Cohesion
-    - Alignment
+  - Separation
+  - Cohesion
+  - Alignment
   Using these three tenants (which I detail more in their respective sections of development), we can simulate our desired movement
   
  # Development
