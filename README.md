@@ -94,7 +94,7 @@
   ![alt text](https://i.imgur.com/mY5fymO.gif "Final Product")
   
   - This looks like a solid simulation of how birds/fish move as a pack
-  - Playing around with the weights on the factors, the view distnace, and the view angle yields some interesting/fun results, so I enocurage you to play around with my code, or make your own!
+  - Playing around with the weights on the factors, the view distance, and the view angle yields some interesting/fun results, so I encourage you to play around with my code, or make your own!
   
 ### Thoughts
   - Overall this was a fun project to undertake in Processing, and I'm looking forward implementing it into a bigger project
