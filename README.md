@@ -24,7 +24,7 @@
  ### Creating our first Boid
   - A pretty simple ellipse will suffice for now!
   
-  ![alt text](https://imgur.com/lGzReKR) "Boid")
+  ![img]https://i.imgur.com/lGzReKR.png[/img]
   
   - We need to give the boid a detection radius, as well as a detection angle
   - The boid should be able to detect any boids that are within its detection arc
