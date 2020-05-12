@@ -32,7 +32,7 @@
   
   ![alt text](https://i.imgur.com/tvErxtZ.png "Boid Detection Radius")
   
-  - Notice the dot turns orange when it is detect by the boid
+  - Notice the dot turns orange when it is detected by the boid
   
   ![alt text](https://i.imgur.com/hAZ1ZSu.gif "Boid Detecting a Dot")
   
@@ -42,7 +42,7 @@
   
   ![alt text](https://i.imgur.com/ZzczdEV.gif "Boid Spawning")
   
-  - Instead of turning the boid orange when it is detected by another, I decided to draw an orange line from one boid to another to demonstrate detection
+  - Instead of turning the boid orange when it is detected by another, I decided to draw an orange line from one boid to the other to demonstrate detection
   
   ![alt text](https://i.imgur.com/95w6EOg.gif "Boid Line Detection")
   
@@ -70,8 +70,7 @@
   
   ![alt text](https://i.imgur.com/dj7HdpP.gif "Cohesion")
   
-  - With only a cohesion factor, giving them the urge to... coheize (???), we can see they form groups on top of each other, and disregard the need to move.
-  - This is clearly not the movement we're after
+  - With only a cohesion factor, giving them the urge to... coheize (???), we can see they form groups on top of each other (except for that one boid in the center... poor guy), and disregard the need to move.
   
 ### Alignment
   - The alignment factor tells the boids to align its heading with other boids in its detection radius
@@ -84,7 +83,6 @@
   ![alt text](https://i.imgur.com/EVu2wtG.gif "Alignment")
   
   - We see the boids all eventually align as one unit, moving in a single direction with no alternating speed
-  - An interesting effect, but still not the movement we're after
   
 ### Putting it all together
   - After finding the right balance of weight on each of the factors, we're left with our final product:
