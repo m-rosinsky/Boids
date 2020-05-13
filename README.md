@@ -96,11 +96,23 @@
   - This looks like a solid simulation of how birds/fish move as a pack
   - Playing around with the weights on the factors, the view distance, and the view angle yields some interesting/fun results, so I encourage you to play around with my code, or make your own!
   
+# Further Developments
+
+### Predators
+  - I wanted to add predators which in the sense of this simulation are dynamic objects that the boids avoid or flee from
+  - I used an orange point that moves at a static velocity in a single direction
+  - Here is what the simulation looks like with 3 predators:
+   
+  ![alt text](https://i.imgur.com/UjXbSEi.gif "Predators")
+   
+  - I felt the boids should prioritize fleeing from predators higher than grouping with the flock, so a "flee factor" higher than a cohesion factor is recommended.
+  - I personally used a flee factor of 2 with a cohesion factor of 1
+  
 ### Thoughts
   - Overall this was a fun project to undertake in Processing, and I'm looking forward implementing it into a bigger project
   
 # Future Plans
-  - Adding a predator to avoid
+  - ~~Adding a predator to avoid~~
   - Static obstacles
   - 3 Dimensions
   
