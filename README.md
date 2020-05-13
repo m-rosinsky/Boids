@@ -106,7 +106,7 @@
   ![alt text](https://i.imgur.com/UjXbSEi.gif "Predators")
    
   - I felt the boids should prioritize fleeing from predators higher than grouping with the flock, so a "flee factor" higher than a cohesion factor is recommended.
-  - I personally used a flee factor of 2 with a cohesion factor of 1
+  - I personally used a flee factor of 2 with a cohesion factor of 1 for the simulation pictured
   
 ### Thoughts
   - Overall this was a fun project to undertake in Processing, and I'm looking forward implementing it into a bigger project
